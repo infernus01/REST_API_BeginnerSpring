@@ -23,8 +23,8 @@ This project is a REST API built using Spring Boot. The API provides endpoints f
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/infernus01/REST_API_BeginnerSpring.git
+    cd REST_API_BeginnerSpring
     ```
 
 2. **Build the project:**
