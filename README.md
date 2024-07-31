@@ -38,9 +38,7 @@ This project is a REST API built using Spring Boot. The API provides endpoints f
     ```bash
     java -jar target/your-app-name.jar
     ```
-
-or
-
+    Or,
     ```bash
     mvn spring-boot:run
     ```
